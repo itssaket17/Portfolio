@@ -329,16 +329,16 @@ function App() {
                 transition={{ delay: 0.4 }}
               >
                 <p className="dialogue">
-                  I'm Shubham Saket. I tell stories through a lens and a timeline. 2+ years of freelancing. A B.Tech in Computer & Communication Engineering from Manipal University. And an obsession with making content that doesn't just look good — it works.
+                  I'm Shubham Saket. I tell stories through a lens and a timeline. 2+ years of freelancing. A B.Tech in Computer & Communication Engineering from Manipal University. And an obsession with making content that doesn't just look good, it works.
                 </p>
                 <p className="dialogue">
                   While most people were just getting through college, I was building a career inside it. Shooting on weekends. Editing through the night. Delivering real work for real clients before I even had a degree to my name.
                 </p>
                 <p className="dialogue">
-                  I'm not just an editor — I'm a cinematographer too. I understand light, composition, and movement before it ever hits the timeline. That dual perspective makes every project sharper and more intentional.
+                  I'm not just an editor, I'm a cinematographer too. I understand light, composition, and movement before it ever hits the timeline. That dual perspective makes every project sharper and more intentional.
                 </p>
                 <p className="dialogue">
-                  Premiere Pro. After Effects. DaVinci Resolve. Not just tools — my language.
+                  Premiere Pro. After Effects. DaVinci Resolve. Not just tools, my language.
                 </p>
                 <p className="dialogue">
                   If you've got a project in mind, I'd love to hear about it.
