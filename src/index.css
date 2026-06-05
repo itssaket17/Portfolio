@@ -6,6 +6,13 @@
   --ink-black: #1a1a1a;
   --deep-black: #0c0c0c;
   --transition-slow: 0.8s cubic-bezier(0.65, 0, 0.35, 1);
+  --slate-blue: #5576aa;
+  --steel-blue-dark: #486496;
+  --steel-blue-medium: #5d719e;
+  --steel-blue-light: #6a7fb0;
+  --slate-blue-bg: #576891;
+  --light-grey-bg: #f5f5f5;
+  --light-grey-border: #d2d2d2;
 }
 
 * {
