@@ -347,66 +347,50 @@ function App() {
   const youtubeCards = [
     {
       type: "video",
-      title: "ZTHRIFTS BRAND PROMOTION",
-      videoId: "-GQTZYS2qWs",
-      link: "https://youtu.be/-GQTZYS2qWs",
-      duration: "01:20",
+      title: "YOUTUBE VIDEO 1",
+      videoId: "z31a1zamdFk",
+      link: "https://youtu.be/z31a1zamdFk",
+      duration: "00:30",
       fallbackImg: "/assets/3.JPG"
     },
     {
       type: "video",
-      title: "ANAGRAM MEDIA LAB PROJECT",
-      videoId: "qy2vbb_OMZM",
-      link: "https://youtu.be/qy2vbb_OMZM",
-      duration: "01:05",
+      title: "YOUTUBE VIDEO 2",
+      videoId: "5uusWZ8kPTI",
+      link: "https://youtube.com/shorts/5uusWZ8kPTI?feature=share",
+      duration: "00:30",
       fallbackImg: "/assets/2.JPG"
     },
     {
       type: "video",
-      title: "RESTAURANT AD",
-      videoId: "JyXE8aqgf7Y",
-      link: "https://youtu.be/JyXE8aqgf7Y",
-      duration: "01:15",
+      title: "YOUTUBE VIDEO 3",
+      videoId: "0seecMOhWNM",
+      link: "https://youtube.com/shorts/0seecMOhWNM?feature=share",
+      duration: "00:30",
       fallbackImg: "/assets/1.JPG"
     },
     {
       type: "video",
-      title: "RESTAURANT AD 2",
-      videoId: "YRBNchJxVHE",
-      link: "https://youtu.be/YRBNchJxVHE",
-      duration: "00:55",
+      title: "YOUTUBE VIDEO 4",
+      videoId: "0seecMOhWNM",
+      link: "https://youtube.com/shorts/0seecMOhWNM?feature=share",
+      duration: "00:30",
       fallbackImg: "/assets/2.JPG"
     },
     {
       type: "video",
-      title: "TANMAY BHATT PODCAST",
-      videoId: "Ioraf7hTRxM",
-      link: "https://youtu.be/Ioraf7hTRxM",
-      duration: "00:45",
+      title: "YOUTUBE VIDEO 5",
+      videoId: "JyhQZxSLKEM",
+      link: "https://youtube.com/shorts/JyhQZxSLKEM?feature=share",
+      duration: "00:30",
       fallbackImg: "/assets/3.JPG"
     },
     {
       type: "video",
-      title: "PUTIN UNTOLD STORY",
-      videoId: "utwC6FjV7CA",
-      link: "https://youtu.be/utwC6FjV7CA",
-      duration: "04:32",
-      fallbackImg: "/assets/1.JPG"
-    },
-    {
-      type: "video",
-      title: "AI VIDEO MUSIC",
-      videoId: "hAPMkwVhyH0",
-      link: "https://youtu.be/hAPMkwVhyH0",
-      duration: "00:50",
-      fallbackImg: "/assets/2.JPG"
-    },
-    {
-      type: "video",
-      title: "AI VIDEOS STORY",
-      videoId: "gorO-trrZqU",
-      link: "https://youtu.be/gorO-trrZqU",
-      duration: "00:40",
+      title: "YOUTUBE VIDEO 6",
+      videoId: "o7toa_AlCyM",
+      link: "https://youtube.com/shorts/o7toa_AlCyM?feature=share",
+      duration: "00:30",
       fallbackImg: "/assets/1.JPG"
     }
   ]
