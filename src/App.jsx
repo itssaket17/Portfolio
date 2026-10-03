@@ -395,17 +395,17 @@ function App() {
     },
     {
       type: "video",
-      title: "AI VIDEO MUSIC",
-      videoId: "hAPMkwVhyH0",
-      link: "https://youtu.be/hAPMkwVhyH0",
+      title: "YOUTUBE VIDEO 7",
+      videoId: "Ioraf7hTRxM",
+      link: "https://youtube.com/shorts/Ioraf7hTRxM?feature=share",
       duration: "00:50",
       fallbackImg: "/assets/2.JPG"
     },
     {
       type: "video",
-      title: "AI VIDEOS STORY",
-      videoId: "gorO-trrZqU",
-      link: "https://youtu.be/gorO-trrZqU",
+      title: "YOUTUBE VIDEO 8",
+      videoId: "utwC6FjV7CA",
+      link: "https://youtu.be/utwC6FjV7CA",
       duration: "00:40",
       fallbackImg: "/assets/1.JPG"
     }
