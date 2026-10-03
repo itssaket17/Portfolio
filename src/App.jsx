@@ -380,8 +380,8 @@ function App() {
     {
       type: "video",
       title: "YOUTUBE VIDEO 5",
-      videoId: "JyhQZxSLKEM",
-      link: "https://youtube.com/shorts/JyhQZxSLKEM?feature=share",
+      videoId: "B2pVWBYsuRs",
+      link: "https://youtube.com/shorts/B2pVWBYsuRs?feature=share",
       duration: "00:30",
       fallbackImg: "/assets/3.JPG"
     },
