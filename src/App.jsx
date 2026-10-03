@@ -392,6 +392,22 @@ function App() {
       link: "https://youtube.com/shorts/o7toa_AlCyM?feature=share",
       duration: "00:30",
       fallbackImg: "/assets/1.JPG"
+    },
+    {
+      type: "video",
+      title: "AI VIDEO MUSIC",
+      videoId: "hAPMkwVhyH0",
+      link: "https://youtu.be/hAPMkwVhyH0",
+      duration: "00:50",
+      fallbackImg: "/assets/2.JPG"
+    },
+    {
+      type: "video",
+      title: "AI VIDEOS STORY",
+      videoId: "gorO-trrZqU",
+      link: "https://youtu.be/gorO-trrZqU",
+      duration: "00:40",
+      fallbackImg: "/assets/1.JPG"
     }
   ]
 
